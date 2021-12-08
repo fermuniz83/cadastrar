@@ -1,9 +1,9 @@
-const eventoAnoNovo ="01/01/2022"
-if (eventoAnoNovo <=05/01/2022){
+const eventoAnoNovo ="04/01/2022"
+if (eventoAnoNovo <="03/01/2022"){
     console.log ("cadastro aprovado")
 } 
 else{
-    ("aguarde data para proximo evento")
+    console.log("aguarde data para proximo evento")
 }
 
 const limiteDeIdade=15
@@ -11,9 +11,9 @@ if(limiteDeIdade>=18){
     console.log ("cadastro aprovado")
 }
 else{
-    ("cadastro negado")
+    console.log("cadastro negado")
 }
-const lotaçãoDoEvento=500
+const lotaçãoDoEvento=501
 if(lotaçãoDoEvento<=500){
     console.log("cadastro efetuado com sucesso")
 }else{
